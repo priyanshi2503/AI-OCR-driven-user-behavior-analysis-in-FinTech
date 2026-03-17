@@ -1,0 +1,131 @@
+Transaction_ID,User_ID,Merchant/Source,Amount,Date/Timestamp,Predicted_Category
+469be517,9,received from rucha more,30.0,2025-03-26 15:30:00,Gifts
+7aea9501,9,received from siddhi didi,12.0,2025-03-24 10:09:00,Gifts
+4a67b2cf,9,paid to siddhi didi,20.0,2025-03-18 17:59:00,Gifts
+bd4fbde1,9,paid to k k wagh education society,1600.0,2025-03-17 20:06:00,Education
+29c0ed53,9,paid to,1655.0,2025-03-17 20:03:00,Education
+191fbe7f,9,paid to nisha didi kkw,16.0,2025-03-16 20:06:00,Other
+95097b2e,9,received from siddhi didi,1655.0,2025-03-16 18:38:00,Gifts
+a00178d9,9,paid to siddhi didi,20.0,2025-03-16 10:23:00,Gifts
+3c2fa2fa,9,paid to oceania  kshetrimayum,200.0,2025-03-15 22:46:00,Personal Care
+b104514c,9,paid to nandini,150.0,2025-03-15 14:27:00,Personal Care
+534ed05b,9,paid to oceania  kshetrimayum,250.0,2025-03-15 13:58:00,Personal Care
+63bcc0f0,9,paid to akshay chat centre,20.0,2025-03-13 17:39:00,Food
+0ae06ee2,9,unknown merchant,252.0,2025-03-12 17:56:00,Other
+32471398,9,paid to ankush nandu jadhav,30.0,2025-03-12 12:32:00,Personal Care
+312e5be3,9,paid to devashri jr,35.0,2025-03-10 22:14:00,Other
+7236534f,9,unknown merchant,26.0,2025-03-09 18:28:00,Other
+e07938dc,9,paid to navinya medical,120.0,2025-03-08 21:58:00,Other
+bf717d99,9,paid to smile dental clinic,100.0,2025-03-08 21:17:00,Personal Care
+afcfa4cb,9,received from devashri jr,20.0,2025-03-07 15:08:00,Other
+f9a07791,9,received from devashri jr,12.0,2025-03-07 15:08:00,Other
+838aba50,9,paid to rucha more,40.0,2025-03-06 17:33:00,Gifts
+f94b9e8e,9,paid to saguna kacharu donde,24.0,2025-03-06 17:04:00,Other
+649b55c3,9,received from devashri jr,516.0,2025-03-05 15:55:00,Other
+fda2fb11,9,paid to avenue supermarts ltd,1019.66,2025-03-05 15:11:00,Shopping
+4a845cec,9,paid to radhika kkw,100.0,2025-03-05 12:41:00,Other
+5ddfbac0,9,paid to mr uday pragnesh shah,50.0,2025-03-03 13:19:00,Other
+17cec8ba,9,received from krishna  singh,50.0,2025-03-03 13:14:00,Other
+bb779e32,9,paid to mr uday pragnesh shah,50.0,2025-03-01 16:36:00,Other
+35a677c4,9,received from sanchit manik shelake,50.0,2025-03-01 16:13:00,Other
+ff139ef4,9,paid to beauty   style launch,200.0,2025-02-24 14:15:00,Other
+56092384,9,paid to navinya medical,170.0,2025-02-24 13:13:00,Other
+ccac9eda,9,paid to nandini,20.0,2025-02-21 15:27:00,Personal Care
+5e349e2c,9,paid to shri varada tea and snacks,20.0,2025-02-18 16:14:00,Food
+2b2731a1,9,paid to devashri jr,20.0,2025-02-15 18:17:00,Other
+1b8062d0,9,paid to samrudhi pawar,45.0,2025-02-15 17:57:00,Other
+d29d8d21,9,received from rucha more,20.0,2025-02-15 17:51:00,Gifts
+181288d0,9,paid to samrudhi pawar,124.0,2025-02-15 07:59:00,Other
+fc3c2f41,9,paid to nandini,50.0,2025-02-12 20:49:00,Personal Care
+2ae9875c,9,paid to jai mata di south indian,40.0,2025-02-11 12:37:00,Food
+397f8b40,9,received from siddhi didi,50.0,2025-02-06 13:21:00,Gifts
+0ad10885,9,paid to siddhi didi,500.0,2025-02-06 00:04:00,Gifts
+a2677fe9,9,received from devashri jr,20.0,2025-02-05 19:22:00,Other
+57c1f75b,9,received from devashri jr,19.2,2025-02-05 19:21:00,Other
+1cfc7106,9,received from devashri jr,39.2,2025-02-05 18:53:00,Other
+99457866,9,paid to nisha didi kkw,38.0,2025-02-05 18:53:00,Other
+06c714f2,9,received from nandini,17.0,2025-02-03 17:58:00,Personal Care
+4f50a639,9,paid to balaji krupa kirana,62.0,2025-02-01 18:20:00,Food
+f48c98b4,9,paid to gaikwad dairy,50.0,2025-02-01 18:15:00,Food
+cafbde5e,9,paid to ankush nandu jadhav,22.0,2025-01-31 18:33:00,Personal Care
+f09c0be8,9,received from devashri jr,180.0,2025-01-30 22:18:00,Other
+7df268e0,9,received from nandini,30.0,2025-01-30 11:10:00,Personal Care
+c70e7aa3,9,paid to nisha didi kkw,170.0,2025-01-29 19:04:00,Other
+743fba38,9,paid to shree balaji juies center,180.0,2025-01-29 14:54:00,Food
+cd04a2a4,9,paid to sachin daulat shelke,300.0,2025-01-29 09:56:00,Other
+74590e10,9,paid to hotel saikrupa,60.0,2025-01-29 08:47:00,Food
+cc7a192c,9,received from siddhi didi,22.0,2025-01-28 22:52:00,Gifts
+8e20862b,9,unknown merchant,22.0,2025-01-28 22:44:00,Other
+a3be14a2,9,paid to nandini,105.0,2025-01-28 22:25:00,Personal Care
+7992c2b8,9,received from nandini,105.0,2025-01-28 22:22:00,Personal Care
+c957037c,9,received from devashri jr,130.0,2025-01-28 20:46:00,Other
+eccb35f0,9,paid to shree balaji juies center,60.0,2025-01-28 16:34:00,Food
+dec1a6f0,9,received from srushti yeole malegaon,20.0,2025-01-28 16:10:00,Other
+5cf3ff8b,9,received from srushti yeole malegaon,20.0,2025-01-28 16:09:00,Other
+3995c675,9,paid to golus roll,20.0,2025-01-28 15:05:00,Food
+e6248138,9,paid to golus roll,180.0,2025-01-28 15:05:00,Food
+727626f2,9,unknown merchant,63.0,2025-01-28 12:35:00,Other
+77d230c6,9,paid to sachin daulat shelke,300.0,2025-01-28 08:50:00,Other
+e9908bae,9,received from suchita patil,400.0,2025-01-26 16:29:00,Other
+f69455af,9,received from nandini,60.0,2025-01-25 19:57:00,Personal Care
+348ec9a8,9,paid to neha jadhav  ai ds,40.0,2025-01-25 14:47:00,Other
+514d9e28,9,paid to gp chat bhandar,18.0,2025-01-24 18:30:00,Food
+f11b89fc,9,paid to shubh alankar,10.0,2025-01-24 18:13:00,Utilities
+8205596a,9,unknown merchant,600.0,2025-01-24 15:23:00,Other
+174c4be6,9,paid to neha jadhav  ai ds,80.0,2025-01-24 13:06:00,Other
+b3f90b17,9,received from siddhi didi,150.0,2025-01-23 00:38:00,Gifts
+30a2469c,9,paid to golus roll,205.0,2025-01-22 12:37:00,Food
+ca500ce8,9,paid to prataprao dinkarrao chavan,40.0,2025-01-21 11:29:00,Other
+7e2ab5c5,9,paid to aditya xerox and stationery,36.0,2025-01-21 11:25:00,Transportation
+fc85fb21,9,paid to rucha more,130.0,2025-01-20 19:08:00,Gifts
+7325b9fe,9,received from siddhi didi,50.0,2025-01-19 22:15:00,Gifts
+34725f78,9,paid to siddhi didi,50.0,2025-01-19 22:14:00,Gifts
+c849a438,9,received from siddhi didi,30.0,2025-01-19 15:29:00,Gifts
+eec884af,9,paid to devashri jr,60.0,2025-01-19 15:15:00,Other
+0fcf52a2,9,paid to siddhi didi,70.0,2025-01-19 15:13:00,Gifts
+1780328e,9,received from siddhi didi,220.0,2025-01-19 13:03:00,Gifts
+8ef00376,9,received from devashri jr,190.0,2025-01-19 12:59:00,Other
+162fa54b,9,paid to peruchi wadi,850.0,2025-01-19 12:59:00,Shopping
+f8269e67,9,paid to devashri jr,80.0,2025-01-18 19:00:00,Other
+dec1020a,9,paid to ruchira jawale ai ds,90.0,2025-01-18 17:35:00,Other
+3812d613,9,received from nisha didi kkw,18.0,2025-01-18 00:28:00,Other
+8ba137ce,9,received from siddhi didi,15.0,2025-01-17 20:53:00,Gifts
+6475f723,9,paid to royal bakers and swe,35.0,2025-01-17 18:31:00,Food
+7af7ea53,9,paid to rekha ramdas bunde,40.0,2025-01-17 18:24:00,Food
+ea646491,9,received from siddhi didi,30.0,2025-01-16 21:59:00,Gifts
+7b8a0597,9,paid to karans khau galli,90.0,2025-01-16 21:32:00,Food
+8eb6983e,9,received from devashri jr,10.0,2025-01-16 19:26:00,Other
+9693857e,9,received from siddhi didi,10.0,2025-01-15 22:58:00,Gifts
+38f3a298,9,paid to siddhi didi,10.0,2025-01-15 22:56:00,Gifts
+8e786588,9,received from siddhi didi,10.0,2025-01-15 22:54:00,Gifts
+b57a40fc,9,paid to karans khau galli,30.0,2025-01-15 21:29:00,Food
+e781204f,9,paid to priyank ravikiran phulpagar,64.0,2025-01-15 14:06:00,Other
+4898246b,9,paid to neha jadhav  ai ds,200.0,2025-01-15 14:04:00,Other
+fe144ffe,9,received from siddhi didi,90.0,2025-01-12 18:30:00,Gifts
+dc64a5bd,9,received from devashri jr,150.0,2025-01-12 18:20:00,Other
+492231df,9,received from siddhi didi,40.0,2025-01-12 17:37:00,Gifts
+f244b01d,9,paid to sayantara,205.0,2025-01-12 17:34:00,Food
+421bba69,9,paid to ambika collection,250.0,2025-01-12 16:53:00,Shopping
+de3bfc85,9,received from devashri jr,70.0,2025-01-12 16:21:00,Other
+ad836ed6,9,received from siddhi didi,60.0,2025-01-12 16:20:00,Gifts
+7615a2c0,9,paid to the juice farm,40.0,2025-01-12 16:14:00,Food
+f0e6d6ca,9,paid to the juice farm,190.0,2025-01-12 16:14:00,Food
+4ab418e8,9,paid to prabhat tea depot,20.0,2025-01-12 15:59:00,Food
+fb554545,9,paid to new india book house,950.0,2025-01-12 14:48:00,Education
+506ff340,9,received from siddhi didi,950.0,2025-01-12 14:48:00,Gifts
+1bc3b95a,9,received from siddhi didi,20.0,2025-01-12 14:45:00,Gifts
+73aa4638,9,received from nandini,100.0,2025-01-10 18:51:00,Personal Care
+c583032d,9,paid to moon light resto,130.0,2025-01-10 16:22:00,Food
+a67cfaea,9,received from neha jadhav  ai ds,130.0,2025-01-10 16:22:00,Other
+b82d8023,9,paid to golus roll,135.0,2025-01-10 15:58:00,Food
+e4186593,9,paid to golus foods,45.0,2025-01-10 15:58:00,Food
+68d6829c,9,received from rucha more,249.0,2025-01-10 14:51:00,Gifts
+86501dcc,9,paid to rucha ravindra more,249.0,2025-01-09 22:36:00,Gifts
+a7e17513,9,paid to nandini,75.5,2025-01-07 18:29:00,Personal Care
+f7260c29,9,paid to shivaji karbhari gavhane,30.0,2025-01-07 16:02:00,Other
+c85e3e0c,9,paid to bhushan mama,5000.0,2025-01-05 19:18:00,Education
+16b746cf,9,paid to datta footwear,10.0,2025-01-05 18:24:00,Shopping
+167b9428,9,paid to g p sweets,80.0,2025-01-04 15:55:00,Food
+1a144781,9,received from priti magar,30.0,2025-01-02 17:14:00,Other
+3fe73464,9,received from neha jadhav  ai ds,40.0,2025-01-02 16:31:00,Other
+9dc83851,9,paid to moon light resto,220.0,2025-01-02 16:30:00,Food
